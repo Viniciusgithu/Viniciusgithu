@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 😁 / Welcome my GitHub profile 😁
+## Bem-vindo(a) ao meu perfil 😁 / Welcome to my GitHub profile 😁
  
 
 :books: Me chamo Vinicius Lima Pazos e atualmente estou buscando desbloquear os conhecimentos nas tecnologias: <br>
