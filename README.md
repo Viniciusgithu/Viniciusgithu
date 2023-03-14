@@ -1,7 +1,10 @@
 ## Bem-vindo(a) ao meu perfil, me chamo Vinicius Lima Pazos 😁 / Welcome to my GitHub profile 😁
  * 💻 Sou um programador Front-end;
- * 💻 Estudando React.JS e Node.JS;
- * 🚀 Com objetivo de me tornar FullStack. <br>
+ * 💻 Estudando React.js e Node.js;
+ * 💻 Sou um profundo adepto do lifelong learning e, assim, nutro uma curiosidade pelo mundo da Cibersegurança/Pentest/Ethical Hacking;
+ * ⌨️ Desta forma, acabei tendo experiências com Kali Linux, Linux e Python;
+ * ⌨️ Indo além, participei do programa Start By Capgemini, onde estudei Lógica de Programação e Java; 
+ * 🚀 Tenho um objetivo de me tornar um programador Full Stack com especialidade em cibersegurança.
  ##
  ### Tecnologias:
  <div style="display: inline_block">
