@@ -15,9 +15,6 @@
       <li>Cybersecurity</li>
     </ol>
 
-
-
-
 ## Where to find me
 
 [![Linkedin](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciuspazos/)](Linkedin)
